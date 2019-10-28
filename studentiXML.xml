@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <inbox>
-    <Student CadruDidacticLaborator="Camelia Serban" Email="ar" Grupa="221" ID="1" Nume="Amaistroaie" Prenume="Radu"/>
-    <Student CadruDidacticLaborator="Camelia Serban" Email="aa" Grupa="221" ID="2" Nume="Ardelean" Prenume="Adrian"/>
-    <Student CadruDidacticLaborator="Camelia Serban" Email="cp" Grupa="221" ID="3" Nume="Cadis" Prenume="Paul"/>
-    <Student CadruDidacticLaborator="Camelia Serban" Email="ba" Grupa="222" ID="4" Nume="Bacrau" Prenume="Anisoara"/>
+    <Student CadruDidacticLaborator="Camelia Serban" Email="mc" Grupa="221" ID="1" Nume="Marius" Prenume="Cailean"/>
+    <Student CadruDidacticLaborator="Vescan Andreea" Email="bi@yahoo.com" Grupa="221" ID="2" Nume="Benchea"
+             Prenume="Ion"/>
+    <Student CadruDidacticLaborator="Vescan Andreea" Email="bi@yahoo.com" Grupa="225" ID="3" Nume="Benchea"
+             Prenume="Ion"/>
 </inbox>

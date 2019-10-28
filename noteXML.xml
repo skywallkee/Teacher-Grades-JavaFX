@@ -1,8 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<inbox>
-    <Nota Data="2019-11-27" IDStudent="1" IDTema="1" Profesor="Camelia Serban" ValoareNota="10.0"/>
-    <Nota Data="2019-11-27" IDStudent="2" IDTema="1" Profesor="Pop Andrei" ValoareNota="10.0"/>
-    <Nota Data="2019-11-05" IDStudent="1" IDTema="3" Profesor="Camelia Serban" ValoareNota="8.0"/>
-    <Nota Data="2019-11-27" IDStudent="2" IDTema="3" Profesor="Camelia Serban" ValoareNota="8.5"/>
-    <Nota Data="2019-11-28" IDStudent="3" IDTema="3" Profesor="Pop Andrei" ValoareNota="8.5"/>
-</inbox>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><inbox><Nota Data="2019-11-20" IDStudent="1" IDTema="3" Profesor="Ana" ValoareNota="9.0"/><Nota Data="2019-11-20" IDStudent="2" IDTema="3" Profesor="Ana" ValoareNota="9.0"/><Nota Data="2019-11-13" IDStudent="3" IDTema="3" Profesor="Dan" ValoareNota="9.0"/></inbox>
